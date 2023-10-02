@@ -1,2 +1,2 @@
-# unsplash-clone
-Our group's first project together, a clone of Unsplash+'s member page.
+# TheCodingQuartet
+Our group's first project - Unsplash+ clone
